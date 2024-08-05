@@ -1,0 +1,3 @@
+[submodule "osfree"]
+	path = osfree
+	url = https://github.com/osfree-project/osfree.git
